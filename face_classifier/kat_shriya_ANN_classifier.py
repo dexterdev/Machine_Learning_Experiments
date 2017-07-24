@@ -1,5 +1,5 @@
 # USAGE
-# python simple_cat_dog_test.py /path/to/image_file
+# python kat_shriya_ANN_classifier.py /path/to/image_file
 from keras.models import load_model
 import cv2
 import numpy as np
