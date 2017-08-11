@@ -1,2 +1,2 @@
 
-This is a Shriya Saran or Katrina Kaif classidfier (attempt)
+This is a Shriya Saran or Katrina Kaif classifier (attempt)
