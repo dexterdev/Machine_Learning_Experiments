@@ -1,2 +1,2 @@
 # Machine_Learning_Experiments
-My experiemnts with ML. 
+My experiments with ML. 
